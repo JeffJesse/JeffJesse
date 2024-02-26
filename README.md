@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeffJesse
+- 👋 Gudday, I’m @JeffJesse
 - 👀 I’m interested in RPG's & Rogue like type of videogames.
 - 🌱 I’m currently learning how to be a great software engenieer & a capable programmer.
 - 💞️ I’m going to collaborate with some of my friends & try to develop a web page for a contest.
